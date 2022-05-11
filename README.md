@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+
+🌱 estou começando a estudar javascript ...
 
 <!--
 **OlgaJuanne/olgajuanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
