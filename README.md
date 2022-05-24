@@ -1,6 +1,6 @@
 ### Olá 👋
 
-🏗 html, css...
+🏗 html, css... <br>
 🌱 estou começando a estudar javascript ...
 
 
