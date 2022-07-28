@@ -1,15 +1,17 @@
 ### Olá 👋
 
 🏗 html, css... <br>
-🌱 estou começando a estudar javascript ...
-
+🌱 estou começando a estudar javascript ... <br>
+🌱 estudando Java... 👩🏽‍💻
 
  🛠️ My current tools 
  🐧, 
  📑, 
  🎨,
  📜,
- ⚡
+ ⚡,
+ ☕️,
+ ⚛️
  
 
 
