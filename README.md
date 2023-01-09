@@ -1,18 +1,23 @@
-### Olá 👋
+### Olá 👋! Meu nome é Olga. Estou estudando...
 
-🏗 html, css... <br>
-🌱 estou começando a estudar javascript ... <br>
-🌱 estudando Java... 👩🏽‍💻
+🏗 HTML, CSS, Javascript, Java <br>
+🌱 Angular... 👩🏽‍💻
 
- 🛠️ My current tools 
- 🐧, 
- 📑, 
- 🎨,
- 📜,
- ⚡,
- ☕️,
- ⚛️
+ 🛠️ My current tools:
+ 🐧 Linux Mint,
+ ◀️ VScode,
+ 📑 HTML,
+ 🎨 CSS,
+ 📜 Javascript,
+ ⚡ Vite,
+ ☕️ JAVA,
+ ⚛️ React,
+ 🅰️
  
+ <br>
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olgajuanne&theme=github)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olgajuanne&theme=github)
 
 
 <!--
